@@ -7,15 +7,16 @@
             padding: 20px;
             line-height: 1.6;
         }
-
         h1 {
           color: #bb86fc;
           margin-bottom: 5px;
           font-size: 1.8rem; 
         }
-
         p {
           color: #777;
           margin-top: 0; 
           font-size: 0.9rem; 
+        }
+        .grid-container {
+          margin-top: 40px; 
         }
